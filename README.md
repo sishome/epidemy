@@ -1,4 +1,5 @@
-PYSDES - PYthon simple discrete epidemic simulator
+PYSDES - PYthon Simple Discrete Epidemic Simulator
+
 Should be used for demonstrations / education purposes only.
 Copyright (C) 2020 S. Shelyag
 
